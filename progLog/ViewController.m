@@ -39,7 +39,7 @@
     NSDictionary *headers = @{
       @"Content-Type": @"application/json;charset=UTF-8",
       @"sessionId": @"71D0278994859FEE0DC59B8DD869F2AD",
-      @"Authorization": @"bearer 9daa6535-760f-4c57-b281-225ad4ca3d03",
+      @"Authorization": @"abc",
       @"Cookie": @"JSESSIONID=FA0A7041A4C069BED8A5904A0964D0B1"
     };
 
